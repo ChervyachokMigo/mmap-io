@@ -12,7 +12,7 @@
         "module_path": "./build/binding/{configuration}/{node_abi}-{platform}-{arch}/",
         "remote_path": "./v{version}/",
         "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.tar.gz",
-        "host": "https://github.com/Widdershin/mmap-io/releases/download/"
+        "host": "https://github.com/ChervyachokMigo/mmap-io/releases/download/"
     },
     "description": "io.js/node.js mmap bindings revisited.",
     "homepage": "https://github.com/Widdershin/mmap-io",
@@ -29,7 +29,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/Widdershin/mmap-io.git"
+        "url": "https://github.com/ChervyachokMigo/mmap-io.git"
     },
     "bugs": {
         "url": "http://github.com/Widdershin/mmap-io/issues"
