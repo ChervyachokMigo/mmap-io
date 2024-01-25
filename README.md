@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/ozra/mmap-io.svg?branch=master)](https://travis-ci.org/ozra/mmap-io)
 
+# Update
+
+Add build for windows x64, node v120
+
 # Fork Notice
 
 This is a fork of mmap-io, as the upstream repo is no longer maintained.
