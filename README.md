@@ -2,7 +2,7 @@
 
 # Update
 
-Add build for windows x64, node v120
+Add build for windows x64, node v120 (node v21.4.0)
 
 # Fork Notice
 
