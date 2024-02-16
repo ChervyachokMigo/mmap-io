@@ -3,9 +3,10 @@
 # Update
 
 Add build for latest node (windows build):
-node-v120-win32-x64 (node v21.4.0)
-node-v115-win32-x64 (node v19.9.0)
-node-v111-win32-x64 (node v18.19.1)
+
+ - node-v120-win32-x64 (node v21.6.2)
+ - node-v115-win32-x64 (node v20.11.1)
+ - node-v111-win32-x64 (node v19.9.0)
 
 # Fork Notice
 
