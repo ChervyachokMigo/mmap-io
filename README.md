@@ -2,7 +2,10 @@
 
 # Update
 
-Add build for windows x64, node v120 (node v21.4.0)
+Add build for latest node (windows build):
+node-v120-win32-x64 (node v21.4.0)
+node-v115-win32-x64 (node v19.9.0)
+node-v111-win32-x64 (node v18.19.1)
 
 # Fork Notice
 
@@ -27,6 +30,8 @@ It should be noted that mem-mapping is by nature potentially blocking, and _shou
 
 
 # News and Updates
+### 2024-02-16: version 1.4.0
+ - Add support for latest Node 19, 20, 21
 
 ### 2021-08-27: version 1.4.0
 - Add support for Node 17 and 18
