@@ -119,7 +119,7 @@ npm install @raygun-nickj/mmap-io
 ```
 
 ```
-git clone https://github.com/Widdershin/mmap-io.git
+git clone https://github.com/ChervyachokMigo/mmap-io.git
 cd mmap-io
 npm install
 npm build
