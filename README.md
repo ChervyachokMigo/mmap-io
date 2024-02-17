@@ -115,7 +115,7 @@ It should be noted that mem-mapping is by nature potentially blocking, and _shou
 Use npm or git.
 
 ```
-npm install @raygun-nickj/mmap-io
+npm install ChervyachokMigo/mmap-io
 ```
 
 ```
