@@ -63,7 +63,7 @@
         "watch": "while true; do (npm run build; inotifywait -qre close_write,moved_to --exclude '\\.git' ./src/; ) done;"
     },
     "devDependencies": {
-        "@types/node": "^11.10.5",
+        "@types/node": "^11.15.54",
         "livescript": "^1.6.0",
         "node-pre-gyp-github": "^1.4.4",
         "typescript": "^3.5.3"

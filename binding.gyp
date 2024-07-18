@@ -3,7 +3,7 @@
         "target_name": "mmap_io",
         "sources": [ "src/mmap-io.cc" ],
         "include_dirs": [
-            "node_modules/nan"
+			"<!(node -e \"require('nan')\")"
         ],
         "cflags_cc": [
             "-std=c++17"
