@@ -4,6 +4,8 @@
 
 Add build for latest node (windows build):
 
+ - node-v127-win32-x64 (node v22.13.1)
+ - node-v120-linux-x64 (node v21.4.0)
  - node-v120-win32-x64 (node v21.6.2)
  - node-v115-win32-x64 (node v20.11.1)
  - node-v111-win32-x64 (node v19.9.0)
