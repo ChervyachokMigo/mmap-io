@@ -48,8 +48,8 @@
     ],
     "scripts": {
         "clean": "rm -rf build dist",
-        "build": "npm run build-addon && npm run build-es",
-        "build-addon": "node-pre-gyp install --fallback-to-build",
+        "build": "npm i nan -g && npm run build-addon && npm run build-es",
+        "build-addon": "npm i nan -g && node-pre-gyp install --fallback-to-build",
         "build-es": "run-script-os",
         "build-es:win32": "tsc && copy .\\dist\\mmap-io.d.ts .\\",
         "build-es:default": "tsc && cp ./dist/mmap-io.d.ts ./",
@@ -70,7 +70,6 @@
     },
     "dependencies": {
         "@mapbox/node-pre-gyp": "^1.0.9",
-        "nan": "^2.22.0",
         "run-script-os": "^1.1.1"
     }
 }
